@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-contactmanager/static/css/main.f36cbc90.css",
+    "main.js": "/react-contactmanager/static/js/main.c08b4877.js",
+    "index.html": "/react-contactmanager/index.html",
+    "main.f36cbc90.css.map": "/react-contactmanager/static/css/main.f36cbc90.css.map",
+    "main.c08b4877.js.map": "/react-contactmanager/static/js/main.c08b4877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f36cbc90.css",
+    "static/js/main.c08b4877.js"
+  ]
+}
